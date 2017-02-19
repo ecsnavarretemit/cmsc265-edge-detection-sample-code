@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # laplacian.py
 #
 # Copyright(c) Exequiel Ceasar Navarrete <esnavarrete1@up.edu.ph>
